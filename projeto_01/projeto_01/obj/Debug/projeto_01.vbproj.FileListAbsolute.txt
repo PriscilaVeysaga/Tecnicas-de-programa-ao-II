@@ -1,0 +1,12 @@
+C:\Users\dti\source\repos\projeto_01\projeto_01\bin\Debug\projeto_01.exe.config
+C:\Users\dti\source\repos\projeto_01\projeto_01\bin\Debug\projeto_01.exe
+C:\Users\dti\source\repos\projeto_01\projeto_01\bin\Debug\projeto_01.pdb
+C:\Users\dti\source\repos\projeto_01\projeto_01\bin\Debug\projeto_01.xml
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.vbproj.AssemblyReference.cache
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.Resources.resources
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.exe
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.xml
+C:\Users\dti\source\repos\projeto_01\projeto_01\obj\Debug\projeto_01.pdb
