@@ -1,0 +1,12 @@
+C:\Users\dti\source\repos\projeto_02\projeto_02\bin\Debug\projeto_02.exe.config
+C:\Users\dti\source\repos\projeto_02\projeto_02\bin\Debug\projeto_02.exe
+C:\Users\dti\source\repos\projeto_02\projeto_02\bin\Debug\projeto_02.pdb
+C:\Users\dti\source\repos\projeto_02\projeto_02\bin\Debug\projeto_02.xml
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.vbproj.AssemblyReference.cache
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.Resources.resources
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.exe
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.xml
+C:\Users\dti\source\repos\projeto_02\projeto_02\obj\Debug\projeto_02.pdb
