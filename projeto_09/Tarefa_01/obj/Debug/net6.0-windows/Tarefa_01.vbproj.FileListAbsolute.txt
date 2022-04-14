@@ -1,0 +1,17 @@
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\bin\Debug\net6.0-windows\Tarefa_01.exe
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\bin\Debug\net6.0-windows\Tarefa_01.deps.json
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\bin\Debug\net6.0-windows\Tarefa_01.runtimeconfig.json
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\bin\Debug\net6.0-windows\Tarefa_01.dll
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\bin\Debug\net6.0-windows\Tarefa_01.pdb
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.vbproj.AssemblyReference.cache
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.Form1.resources
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.vbproj.GenerateResource.cache
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.AssemblyInfoInputs.cache
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.AssemblyInfo.vb
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.vbproj.CoreCompileInputs.cache
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.dll
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\refint\Tarefa_01.dll
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.pdb
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\Tarefa_01.genruntimeconfig.cache
+C:\Users\dti\source\repos\Tarefa_01\Tarefa_01\obj\Debug\net6.0-windows\ref\Tarefa_01.dll
